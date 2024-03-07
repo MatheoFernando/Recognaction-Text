@@ -22,7 +22,7 @@
   height: 80px;
   display: block;
   margin: 20px auto;
-  background-image: linear-gradient(#FF3D00 50px, transparent 0), radial-gradient(circle 25px at 25px 25px, #F1F1F1 100%, transparent 0), radial-gradient(circle 50px at 50px 50px, #F1F1F1 100%, transparent 0), radial-gradient(circle 25px at 25px 25px, #F1F1F1 100%, transparent 0), linear-gradient(#F1F1F1 50px, transparent 0);
+  background-image: linear-gradient(#FF3D00 50px, transparent 0), radial-gradient(circle 25px at 25px 25px, #Fcc2 100%, transparent 0), radial-gradient(circle 50px at 50px 50px,  #Fcc2 100%, transparent 0), radial-gradient(circle 25px at 25px 25px, #Fcc2 100%, transparent 0), linear-gradient( #Fcc2 50px, transparent 0);
   background-size: 64px 6px, 50px 50px, 100px 76px, 50px 50px, 120px 40px;
   background-position: 55px 60px, 0px 30px, 37px 0px, 122px 30px, 25px 40px;
   background-repeat: no-repeat;

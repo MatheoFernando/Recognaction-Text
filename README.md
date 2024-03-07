@@ -2,9 +2,9 @@
 
 ### a text-by-image generator
 
-##Overview
+# Overview
 
-### Build With
+# Build With
 - React
 - Panda CSS
 - Tesseract.js
